@@ -22,3 +22,4 @@ void print_2d_vector(vector<vector<T> > output) {
     }
     cout << endl;
 }
+
